@@ -1,0 +1,188 @@
+@media only screen and (max-width: 640px) { 
+
+    body {
+    background-color: lightgray;
+    width:100%;
+    
+    }
+}
+
+@media only screen and (max-width: 640px) { 
+
+   h1 {
+       /*padding:10px;
+       background-color: teal;    
+       font: Georgia;
+       width: 12%; /*adjusting height can help tweak page layout by commenting out position on navbar and adjusting height on navbar*/
+      /* text-emphasis: center;
+       float: left;
+       display: inline;
+       margin: 0;*/
+       margin-left: auto;
+       margin-right:auto;
+       color: white;
+       text-align: center;
+       background-color: teal;
+       color:white;   
+   } 
+   .sidemenu{
+       text-align:center;
+       margin-right:auto;
+       margin-left:auto;
+       color:auto;
+   }
+}
+
+   @media only screen and (max-width: 640px) { 
+    nav{
+        text-align:center;
+        color:teal;
+    }
+
+   .about {
+       border-bottom: outset;
+      /* padding:10px;*/
+       width: 100%;
+       height:auto;
+       left:0;
+       background-color: white;
+       margin-top: 20px;
+       margin-left:auto;
+       margin-right:auto;
+       font-size: 16px;
+       line-height: 22px;
+   }
+   img {
+    width: 100%;
+    height: auto;
+    background-color:white;
+    margin-top:auto; 
+    
+
+}
+       
+   }
+
+@media only screen and (max-width: 640px) { 
+
+    section {
+        font: Arial;
+        background-color: White;
+        font-family: "Times New Roman", Times, serif;
+        width:100%;
+        margin-left:auto;
+        margin-right:auto;
+    }
+    /*p{
+        width:100%;
+    }*/
+    .backcolor {
+        width:100%;
+        margin-top:auto;;
+    }
+    .imagecontainer{
+        width:100%;
+        margin-right:auto;
+        margin-left:auto;
+        margin-top:20px;
+        height:auto;
+    
+    }
+    .picturetag{
+        width:100%;
+        height:auto;
+        margin-left:auto;
+        margin-right:auto;
+        position:auto;
+        
+    }
+    .imageclass{
+        width:100%;
+        height:auto;
+    }
+    .picquary{
+        margin-bottom:0px;
+    }
+    .picwriting {
+        width:100%;
+        text-align: center;
+        background-color: teal;
+        color:white;
+        
+    }    
+    .secwriting {
+        width:100%;
+        text-align: center;
+        background-color: teal;
+        color:white;
+        
+    }
+    .thirdwriting{
+        width:100%;
+        text-align: center;
+        background-color: teal;
+        color:white;
+        
+    }
+    .forthwriting{
+        width:100%;
+        text-align: center;
+        background-color: teal;
+        color:white;
+        
+    }
+    .fifthwriting{
+        width:100%;
+        text-align: center;
+        background-color: teal;
+        color:white;
+        
+    }
+
+    .contact{
+        width:100%;
+        height:auto;
+        display:block;
+    }
+    .contact_form{
+        width:100%;
+        height:auto;
+        display:block;
+        padding:10px;
+        
+    }
+    .input_class{
+        width:95%;
+        height:auto;
+    }
+    label{
+        width:100%;
+        height:auto;
+    }
+    .sub_button{
+        background-color: teal;
+        color:white;
+        height:auto;
+    }
+
+}
+
+@media only screen and (max-width: 640px) {   
+    footer {
+        position: fixed;
+        background-color: gray;
+        width: 100%;
+        position:fixed;
+        bottom: 0;
+        left: 0;
+        text-align: center;
+        font-size: 10px;
+        border-top-style: inset;
+        border-top-width: 5px;
+        border-top-color:teal;
+        margin-right:auto;
+        margin-left:auto;
+        margin-right:auto;
+        margin-left:auto;
+    }
+}
